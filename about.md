@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
 ---
 
-Some information about you!
+Siempre en continuo aprendizaje de nuevas formas de crear software. Apasionado de la programación.
 
-### More Information
+### Ponte en contacto conmigo
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[aaron.sn.1988@gmail.com](mailto:email@domain.com)
