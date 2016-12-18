@@ -12,17 +12,17 @@ El libro está escrito en con tintes autobiográficos con un tono que me recuerd
 
 Si esperas un libro técnico busca en otro lugar, en éste libro no hay nada de código, pero sí unas cuantas recomendaciones que todos los de este mundillo deberíamos conocer como la palma de la mano:
 
-- Principios S.O.L.I.D., KISS, DRY
-- Referencias a **[Martin Fowler](http://www.martinfowler.com/)**, gran pensador de esta materia, si no lo  conoces deberías.
-- Principios ágiles como el continuous delivery o la filosofía ágil de abraza el cambio.
-- Nos enseña como decantarnos por una tecnología u otra a la hora de afrontar un nuevo proyecto.
-- Demuestra claramente el mito del hombre mes.
-- Como un gestor puede destrozar un proyecto.
-- TDD y porque realmente funciona en el trabajo.
-- Que es necesario para que un proyecto salga adelante.
-- Roles del pasado que ya no tienen porque tener cabida hoy en día.
-- No reinventar la rueda, básicamente aprovechar la rueda.
-- Escribir *[código limpio](https://www.amazon.es/C%C3%B3digo-Limpio-desarrollo-software-Programaci%C3%B3n/dp/8441532109)* para que se pueda depurar, no solo nosotros, también los que vienen detrás.
+-   Principios S.O.L.I.D., KISS, DRY
+-   Referencias a **[Martin Fowler](http://www.martinfowler.com/)**, gran pensador de esta materia, si no lo  conoces deberías.
+-   Principios ágiles como el continuous delivery o la filosofía ágil de abraza el cambio.
+-   Nos enseña como decantarnos por una tecnología u otra a la hora de afrontar un nuevo proyecto.
+-   Demuestra claramente el mito del hombre mes.
+-   Como un gestor puede destrozar un proyecto.
+-   TDD y porque realmente funciona en el trabajo.
+-   Que es necesario para que un proyecto salga adelante.
+-   Roles del pasado que ya no tienen porque tener cabida hoy en día.
+-   No reinventar la rueda, básicamente aprovechar la rueda.
+-   Escribir *[código limpio](https://www.amazon.es/C%C3%B3digo-Limpio-desarrollo-software-Programaci%C3%B3n/dp/8441532109)* para que se pueda depurar, no solo nosotros, también los que vienen detrás.
 
 Al final del libro nos deja una bibliografía que se puede tomar como una lista de must read para seguir avanzando en el tema.
 
