@@ -4,6 +4,8 @@ title: El libro negro del programador
 ---
 ![El libro negro del programador]({{ site.baseurl}}/images/elndp-cover-small-lookinside.png){:class="img-responsive"}
 
+#### Lectura de ~3 minutos
+
 Hace poco acabé de leer **[El libro negro del programador](http://www.ellibronegrodelprogramador.com/)** escrito por Rafael Gómez Blanes.
 
 Rafael un desarrollador experimentado, experto en clean code y en  metodologías que aumentan la productividad, cualidades que le avalan a Rafael de forma que nos puede indicar cuales son los errores más comunes que se cometen en la profesión, además nos indica como se pueden evitar y resolver.
