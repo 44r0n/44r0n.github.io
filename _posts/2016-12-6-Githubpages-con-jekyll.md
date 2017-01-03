@@ -35,9 +35,9 @@ $ git push -u origin master
 ## Muy bonito, ahora ¿cómo hago que sea un blog?
 Para montar un blog con este sistema tienes dos opciones:
 
-- "Soy un/una super desarrollador/desarrolladora y  quiero maquetar yo mismo/misma el sitio." En este caso no sigas leyendo y ponte manos a la obra.
+-   "Soy un/una super desarrollador/desarrolladora y  quiero maquetar yo mismo/misma el sitio." En este caso no sigas leyendo y ponte manos a la obra.
 
-- "Necesito de una herramienta para montar el blog." Como los mortales que no pertenecemos al primer grupo sigue leyendo.
+-   "Necesito de una herramienta para montar el blog." Como los mortales que no pertenecemos al primer grupo sigue leyendo.
 
 Existe una herramienta para montaje de bloging llamado [Jekyll](https://jekyllrb.com/) y que, ¡oh vaya! se integra perfectamente en **Github**.
 Tal y como indican en [el repositorio de Jekyll now](https://github.com/barryclark/jekyll-now), puedes hacer un *fork* de su repositorio, renombrarlo como se ha hecho anteriormente a `tunombreusuario.github.com` y ya debes poder acceder.
