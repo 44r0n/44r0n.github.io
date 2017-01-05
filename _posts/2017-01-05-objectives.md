@@ -9,7 +9,7 @@ Llevo varios años a la deriva, haciendo lo que me parece en mi tiempo libre sin
 
 Hace poco el señor [David Bonilla](http://bonillaware.com) en su correo dominical [ha hecho un repaso de su año 2016](http://www.bonillaware.com/objetivos-para-2017) y voy a hacer lo mismo. Aquí va mi humilde *checklist* para el **2017**:
 
-- **Blog**, mínimo dar presencia en este blog una vez al mes, intentaré publicar mi opinión de los libros leídos además de otros temas que me vayan surgiendo.
+-   **Blog**, mínimo dar presencia en este blog una vez al mes, intentaré publicar mi opinión de los libros leídos además de otros temas que me vayan surgiendo.
 -   **Lectura**:
     -   Al igual que en el blog, leer al menos un libro técnico al mes. Jorge Sánchez en su [blog](http://xurxodev.com/libros/) recopila una lista de libros que me voy a tomar como obligatoria.
     -   Antes de mudarme a Madrid tenía la costumbre de leer antes de ir a dormir. Tengo una saga, **[La rueda del tiempo](https://www.amazon.es/Desde-R%C3%ADos-Edici%C3%B3n-especial-Tiempo/dp/8448034767/ref=sr_1_1?ie=UTF8&qid=1483612019&sr=8-1&keywords=la+rueda+del+tiempo)**, que empecé a leerla hace tiempo y la tengo pendiente.
