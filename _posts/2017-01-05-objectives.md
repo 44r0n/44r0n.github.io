@@ -18,8 +18,8 @@ Hace poco el señor [David Bonilla](http://bonillaware.com) en su correo dominic
     -   **Gamification for a cause** es un proyecto que acaba de empezar, somos un pequeño grupo de gente que nos conocimos en [Open Source Weekends](http://osweekends.com/). Queremos ayudar a las **ONG's** haciendo que colaborar con ellos sea un *juego*. Aquí mi propósito es muy difuso ya que acabamos de empezar. Me marcaré como objetivo poder avanzar con ellos todo lo posible.
     -   **Aún sin nombre**: unos compañeros de trabajo me comentaron un juego basado en la web que sinceramente me gustó. Al igual que el anterior, intentaré avanzar con ellos todo lo posible.
 -   **Forma física**: he de reconocer que mi forma física es lamentable. Este año quiero acabarlo sitniendome bien. Pero ese "bien" es muy difuso. Aquí tengo que desglosarlo en dos:
-    -   **Comer sano**. Este lo empecé ya el año pasado, esta un poco flojo con el tema de las fiestas navideñas. Toca retomarlo y mantenerlo hasta el final.&#x2713;
-    -   **Ejercicio**. Hace unos meses compré un [fitbit](https://www.fitbit.com/es), que me ayuda a cuantificar lo que me muevo (nada, prácticamente). Así que quiero hacer al menos 45 minutos de ejercicio cada día (Aquí creo que me he pasado).&#x2717;
+    -   **Comer sano**. Este lo empecé ya el año pasado, esta un poco flojo con el tema de las fiestas navideñas. Toca retomarlo y mantenerlo hasta el final.
+    -   **Ejercicio**. Hace unos meses compré un [fitbit](https://www.fitbit.com/es), que me ayuda a cuantificar lo que me muevo (nada, prácticamente). Así que quiero hacer al menos 45 minutos de ejercicio cada día (Aquí creo que me he pasado).
 -   **Aprender a meditar.** Me he dado cuenta que tengo un nivel de estrés elevado y los ratos que estoy a otras cosas me quedo muy despejado y listo para cualquier otra cosa que venga. Espero que meditar me ayude en esto.
 -   **Dedicar más tiempo a mi pareja.** Por varias razones he dejado de dedicar el tiempo que se merece a mi pareja. He de dar solución a esto.
 
