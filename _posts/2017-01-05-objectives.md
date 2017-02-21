@@ -8,6 +8,7 @@ title: Objetivos 2017
 Llevo varios años a la deriva, haciendo lo que me parece en mi tiempo libre sin llegar a nada en concreto.
 
 Hace poco el señor [David Bonilla](http://bonillaware.com) en su correo dominical [ha hecho un repaso de su año 2016](http://www.bonillaware.com/objetivos-para-2017) y voy a hacer lo mismo. Aquí va mi humilde *checklist* para el **2017**:
+
 -   **Blog**, mínimo dar presencia en este blog una vez al mes, intentaré publicar mi opinión de los libros leídos además de otros temas que me vayan surgiendo.
 -   **Lectura**:
     -   Al igual que en el blog, leer al menos un libro técnico al mes. Jorge Sánchez en su [blog](http://xurxodev.com/libros/) recopila una lista de libros que me voy a tomar como obligatoria.
