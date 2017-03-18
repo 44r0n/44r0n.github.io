@@ -5,7 +5,7 @@ title: Docker y MySQL. Race Problem
 
 #### Lectura de ~3 minutos
 
-Hoy he estado trabajando en my proyecto [Sessionmanager](https://github.com/44r0n/Sessionmanager). El mismo que dije [el post de objetivos](2017-01-05-objectives.md), ha cambiado un poco desde que me lo planteé hace unos meses. Y seguramente seguirá cambiando.
+Hoy he estado trabajando en my proyecto [Sessionmanager](https://github.com/44r0n/Sessionmanager). El mismo que dije [el post de objetivos](/objectives), ha cambiado un poco desde que me lo planteé hace unos meses. Y seguramente seguirá cambiando.
 
 Ahora mismo sigue siendo un proyecto para gestionar usuarios, pero he optado por no ligarlo a *Sinatra* y *Ruby* de momento, se podrá hacer más adelante y de forma desaclopada. Como base de datos será de momento únicamente *MySQL*.
 
