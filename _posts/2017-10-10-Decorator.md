@@ -3,7 +3,7 @@ layout: post
 title: Patrón decorator
 ---
 
-#### Lectura de ~n minutos
+#### Lectura de ~2 minutos
 
 El patrón decorator añade o retira responsabilidades a un objeto de forma dinámica. Es una alternativa a la herencia.
 
