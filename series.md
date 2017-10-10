@@ -13,3 +13,5 @@ permalink: /series
 ## Patrones
 
 -   [Composite]({{ site.baseurl}}{% post_url 2017-08-06-Composite %})
+-   [Strategy]({{ site.baseurl}}{% post_url 2017-09-11-Composite %})
+-   [Decorator]({{ site.baseurl}}{% post_url 2017-10-10-Composite %})
