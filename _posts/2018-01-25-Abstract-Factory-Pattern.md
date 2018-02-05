@@ -3,7 +3,7 @@ layout: post
 title: Patrón Abstract Factory
 ---
 
-#### Lectura de ~n minutos
+#### Lectura de ~3 minutos
 
 Provee una interfaz para crear familias dependientes sin especificar clases concretas.
 
