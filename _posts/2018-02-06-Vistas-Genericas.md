@@ -3,7 +3,11 @@ layout: post
 title: Vistas Genéricas
 ---
 
+<<<<<<< HEAD
 #### Lectura de ~3 minutos
+=======
+#### Lectura de ~n minutos
+>>>>>>> 38c54d179391106a99c7b55cf04e90c4cebe30c5
 
 En el trabajo tenemos webs internas para la empresa hechas en .NET full framework y hace relativamente poco nos dimos cuenta que teníamos muchas webs del mismo tipo.
 
