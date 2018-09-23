@@ -17,3 +17,4 @@ permalink: /series
 -   [Decorator]({{ site.baseurl}}{% post_url 2017-10-10-Decorator %})
 -   [Abstract Factory]({{ site.baseurl}}{% post_url 2018-01-25-Abstract-Factory-Pattern %})
 -   [Bridge]({{ site.baseurl}}{% post_url 2018-02-25-Bridge %})
+-   [Command]({{ site.baseurl}}{% post_url 2018-09-23-Command %})
