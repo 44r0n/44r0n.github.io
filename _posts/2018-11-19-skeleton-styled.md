@@ -6,7 +6,7 @@ title:  Primera versión de skeleton-styled
 
 ---
 
-### Lectura de ~n minutos
+### Lectura de ~5 minutos
 
 Ha costado un poco, pero desde la semana pasada ya está disponible la primera versión de [skeleton-styled](https://github.com/44r0n/skeleton-styled). Tiene ya unas pocas descargas, 1k dice el badget. Lo que empezó siendo un side project para aprender como llevar un proyecto de puro front, siendo yo un completo ignorante de ese sector, se está convirtiendo en un proyecto que me está gustando más de lo que yo pensaba, y que me está enseñando muchísimo más de lo que sospechaba.
 
