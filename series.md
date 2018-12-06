@@ -18,3 +18,5 @@ permalink: /series
 -   [Abstract Factory]({{ site.baseurl}}{% post_url 2018-01-25-Abstract-Factory-Pattern %})
 -   [Bridge]({{ site.baseurl}}{% post_url 2018-02-25-Bridge %})
 -   [Command]({{ site.baseurl}}{% post_url 2018-09-23-Command %})
+-   [Iterator]({{ site.baseurl}}{% post_url 2018-12-05-Iterator %})
+-   [Visitor]({{ site.baseurl}}{% post_url 2018-12-06-Visitor %})
