@@ -20,3 +20,5 @@ permalink: /series
 -   [Command]({{ site.baseurl}}{% post_url 2018-09-23-Command %})
 -   [Iterator]({{ site.baseurl}}{% post_url 2018-12-05-Iterator %})
 -   [Visitor]({{ site.baseurl}}{% post_url 2018-12-06-Visitor %})
+-   [Adapter]({{ site.baseurl}}{% post_url 2018-12-10-Adapter %})
+-   [Factory Method]({{ site.baseurl}}{% post_url 2018-12-11-FactoryMethod %})
