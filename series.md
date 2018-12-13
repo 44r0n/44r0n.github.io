@@ -23,3 +23,4 @@ permalink: /series
 -   [Adapter]({{ site.baseurl}}{% post_url 2018-12-10-Adapter %})
 -   [Factory Method]({{ site.baseurl}}{% post_url 2018-12-11-FactoryMethod %})
 -   [Observer]({{ site.baseurl}}{% post_url 2018-12-12-Observer %})
+-   [Template Method]({{ site.baseurl}}{% post_url 2018-12-13-Template %})
