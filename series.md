@@ -26,3 +26,4 @@ permalink: /series
 -   [Template Method]({{ site.baseurl}}{% post_url 2018-12-13-Template %})
 -   [Builder]({{ site.baseurl}}{% post_url 2018-12-14-Builder %})
 -   [Prototype]({{ site.baseurl}}{% post_url 2018-12-17-Prototype %})
+-   [Singleton]({{ site.baseurl}}{% post_url 2018-12-18-Singleton %})
