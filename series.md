@@ -29,3 +29,4 @@ permalink: /series
 -   [Singleton]({{ site.baseurl}}{% post_url 2018-12-18-Singleton %})
 -   [Facade]({{ site.baseurl}}{% post_url 2018-12-19-Facade %})
 -   [Flyweight]({{ site.baseurl}}{% post_url 2018-12-20-Flyweight %})
+-   [Proxy]({{ site.baseurl}}{% post_url 2018-12-21-Proxy %})
