@@ -30,3 +30,4 @@ permalink: /series
 -   [Facade]({{ site.baseurl}}{% post_url 2018-12-19-Facade %})
 -   [Flyweight]({{ site.baseurl}}{% post_url 2018-12-20-Flyweight %})
 -   [Proxy]({{ site.baseurl}}{% post_url 2018-12-21-Proxy %})
+-   [Chain of Responsibility]({{ site.baseurl}}{% post_url 2018-12-27-Chain-of-Responsibility %})
