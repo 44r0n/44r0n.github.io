@@ -33,4 +33,4 @@ Se define una interfaz que indica que operaciones se pueden realizar en el inter
 
 Como de costumbre [aquí](https://github.com/44r0n/InterpreterPattern) un pequeño ejemplo en Net core.
 
-Nos vemos en las próximas líneas.
+Nos vemos en las próximas líneas. 
