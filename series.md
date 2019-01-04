@@ -33,3 +33,4 @@ permalink: /series
 -   [Chain of Responsibility]({{ site.baseurl}}{% post_url 2018-12-27-Chain-of-Responsibility %})
 -   [Interpreter]({{ site.baseurl}}{% post_url 2019-01-02-Interpreter %})
 -   [Mediator]({{ site.baseurl}}{% post_url 2019-01-03-Mediator %})
+-   [Memento]({{ site.baseurl}}{% post_url 2019-01-04-Memento %})
