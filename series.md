@@ -34,3 +34,4 @@ permalink: /series
 -   [Interpreter]({{ site.baseurl}}{% post_url 2019-01-02-Interpreter %})
 -   [Mediator]({{ site.baseurl}}{% post_url 2019-01-03-Mediator %})
 -   [Memento]({{ site.baseurl}}{% post_url 2019-01-04-Memento %})
+-   [State]({{ site.baseurl}}{% post_url 2019-01-08-State %})
