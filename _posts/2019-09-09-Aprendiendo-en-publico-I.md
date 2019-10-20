@@ -7,7 +7,7 @@ title:  Aprendiendo en público - Introducción (I)
 
 Este es el primer post de una serie.
 
-¿Que es aprender en público? Es aprender cosas que no sabía e ir publicandolas a la vez que las voy aprendiendo. En este caso voy a aprender con vosotros una seria de tecnologías para hacer un sitio web pequeño que nos permita hacer registrarnos y autenticarnos. Así que sin más demora, empezamos.
+¿Que es aprender en público? Es aprender cosas que no sabía e ir publicandolas a la vez que las voy aprendiendo. En este caso voy a aprender con vosotros una serie de tecnologías para hacer un sitio web pequeño que nos permita hacer registrarnos y autenticarnos. Así que sin más demora, empezamos.
 
 ## Tecnología base
 
