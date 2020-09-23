@@ -5,7 +5,7 @@ title: Primeras partes de un proyecto (IV)
 
 ### Lectura de ~11 minutos
 
-[En la anterior entrega vimos como tener listo un servidor de desarrollo para el proyecto]({{ site.baseurl}}{% post_url 2019-07-22-Primeras-partes-de-un-proyecto-III %}). En este post, que también va a ser extenso, veremos como tener un entorno de desarrollo para la web comunicandose con el servidor mediante contenedores.
+[En la anterior entrega vimos como tener listo un servidor de desarrollo para el proyecto]({{ site.baseurl}}{% post_url 2019-11-18-Aprendiendo-en-publico-III %}). En este post, que también va a ser extenso, veremos como tener un entorno de desarrollo para la web comunicandose con el servidor mediante contenedores.
 
 Ahora que tenemos la parte de backend respirando, toca darle vida a la web y poder empezar a ver algo, no solo letritas en la pantalla. Lo que hay a continuación es un típico tutorial de [`Vue`](https://vuejs.org) aplicando [`Typescript`](https://www.typescriptlang.org). Este proyecto se encontrará en un directorio adyacente al servicio llamado `web`. 
 
