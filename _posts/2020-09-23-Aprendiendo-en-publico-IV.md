@@ -1,6 +1,6 @@
 ---
 layout:  post
-title: Primeras partes de un proyecto (IV)
+title: Aprendiendo en público (IV)
 ---
 
 ### Lectura de ~11 minutos
